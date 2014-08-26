@@ -8,9 +8,9 @@ Based on:
 [used image](http://society6.com/product/sasha-c7u_print#1=45)
 
 Controls:
-leftClick   - draw arcCircle
-rightClick  - clear
+leftClick   - draw arcCircle;
+rightClick  - clear;
 
 keys:
-s - save image
-r - add random 5-15 arcCircles
+s - save image;
+r - add random 5-15 arcCircles;
